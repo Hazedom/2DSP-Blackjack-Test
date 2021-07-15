@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DSP Blackjack", "2DSP Blackjack\2DSP Blackjack.csproj", "{EB0D5C8F-70B7-4979-90FC-B329768F8C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0D5C8F-70B7-4979-90FC-B329768F8C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0D5C8F-70B7-4979-90FC-B329768F8C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0D5C8F-70B7-4979-90FC-B329768F8C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0D5C8F-70B7-4979-90FC-B329768F8C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2647BFCD-5A8E-4575-B0C4-6FBDF275A7F4}
+	EndGlobalSection
+EndGlobal
